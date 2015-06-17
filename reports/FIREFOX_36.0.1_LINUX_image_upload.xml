@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="1"
+            failures="0"
+            tests="1">
+
+  <testsuite name="image_upload"
+    errors="1" failures="0" hostname="" id="" package="image_upload" skipped="0"
+    tests="1" time="26.83" timestamp="Wed, 17 Jun 2015 08:06:16 GMT">
+  
+    <testcase name="Add Image Demo" time="26.83" assertions="1">
+
+    
+    </testcase>
+      <system-err>
+        Unable to locate element: &quot;.thumbnail&quot; using: css selector
+Unable to locate element: &quot;a.edit-post-status&quot; using: css selector
+Unable to locate element: &quot;#post_status&quot; using: css selector
+Unable to locate element: &quot;#publish&quot; using: css selector
+      </system-err>
+  
+  
+  </testsuite>
+</testsuites>

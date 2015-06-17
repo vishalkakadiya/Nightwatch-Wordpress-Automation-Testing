@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="image_upload"
+    errors="0" failures="0" hostname="" id="" package="image_upload" skipped="0"
+    tests="1" time="15.41" timestamp="Wed, 17 Jun 2015 08:13:39 GMT">
+  
+    <testcase name="Add Image Demo" time="15.41" assertions="1">
+
+    
+    </testcase>
+  
+  
+  </testsuite>
+</testsuites>
