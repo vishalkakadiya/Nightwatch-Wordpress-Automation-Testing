@@ -1,7 +1,7 @@
 module.exports = {
 	'Demo test Google' : function (browser) {
 		browser
-			.url('http://vk-test.com/2015/05/28/hello-world/')
+			.url('your_url')
 			.waitForElementVisible('body', 1000)
 			//.setValue('input[type=search]', 'nightwatch')
 			.waitForElementVisible('h1[class=entry-title]', 100)
